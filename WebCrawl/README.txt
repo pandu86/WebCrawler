@@ -1,4 +1,4 @@
-			webcRAWLER
+			WEB-CRAWLER
 
 1. The WebCrawler is developed using JAVA.
 2. Java version 1.8
